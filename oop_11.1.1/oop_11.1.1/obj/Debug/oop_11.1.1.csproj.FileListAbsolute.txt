@@ -1,0 +1,7 @@
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\obj\Debug\oop_11.1.1.csprojAssemblyReference.cache
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\obj\Debug\oop_11.1.1.csproj.CoreCompileInputs.cache
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\bin\Debug\oop_11.1.1.exe.config
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\bin\Debug\oop_11.1.1.exe
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\bin\Debug\oop_11.1.1.pdb
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\obj\Debug\oop_11.1.1.exe
+C:\Users\000ga\source\repos\oop_11.1.1\oop_11.1.1\obj\Debug\oop_11.1.1.pdb
